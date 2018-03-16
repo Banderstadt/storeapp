@@ -19,7 +19,7 @@ coverage/
 
 # MEAN.js app and assets
 # ======================
-database.js
+config/database.js
 public/
 uploads
 modules/users/client/img/profile/uploads
